@@ -1,0 +1,27 @@
+{
+  "name": "mini_api_project",
+  "version": "1.0.0",
+  "description": "API project test for LALALAB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loutix/mini_api_project.git"
+  },
+  "author": "loic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loutix/mini_api_project/issues"
+  },
+  "homepage": "https://github.com/loutix/mini_api_project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
